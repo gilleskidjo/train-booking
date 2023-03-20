@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "64184312c186aabc6c3e36d4"
+  },
+  "firstname": "jaxl",
+  "lastname": "Fifa",
+  "email": "segnonkidjo@gmail.com",
+  "password": "$2b$10$lQ521RB0jBf5yZfATbYzDOj.U/FV41Ym1tMpv7K10nM2i7KXPk1pK",
+  "createdAt": "20/03/2023",
+  "__v": 0
+}]

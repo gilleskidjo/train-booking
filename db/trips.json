@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6417836fb13392e600a49740"
+  },
+  "label": "Paris-Londres",
+  "departureStation": "Paris Gare du Nord, France",
+  "arrivalStation": "Londres St Pancras, Royaume-Uni",
+  "departureTime": "8h00",
+  "arrivalTime": "11h30",
+  "price": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641786c50cbd722e349db1eb"
+  },
+  "label": "New York-Washington",
+  "departureStation": "New York Penn Station, États-Unis",
+  "arrivalStation": "Washington Union Station, États-Unis",
+  "departureTime": "10h45",
+  "arrivalTime": "14h15",
+  "price": 11,
+  "__v": 0
+}]

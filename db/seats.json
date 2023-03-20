@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "64181ac1f539d86c4cfc584b"
+  },
+  "tripId": {
+    "$oid": "6417836fb13392e600a49740"
+  },
+  "seatNumber": 1,
+  "status": "Available",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64181ac8f539d86c4cfc584e"
+  },
+  "tripId": {
+    "$oid": "6417836fb13392e600a49740"
+  },
+  "seatNumber": 10,
+  "status": "Reserved",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64181acdf539d86c4cfc5851"
+  },
+  "tripId": {
+    "$oid": "6417836fb13392e600a49740"
+  },
+  "seatNumber": 3,
+  "status": "Available",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64181ad1f539d86c4cfc5854"
+  },
+  "tripId": {
+    "$oid": "6417836fb13392e600a49740"
+  },
+  "seatNumber": 4,
+  "status": "Available",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64181ad6f539d86c4cfc5857"
+  },
+  "tripId": {
+    "$oid": "6417836fb13392e600a49740"
+  },
+  "seatNumber": 5,
+  "status": "Available",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64181adcf539d86c4cfc585a"
+  },
+  "tripId": {
+    "$oid": "6417836fb13392e600a49740"
+  },
+  "seatNumber": 6,
+  "status": "Available",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64181ae3f539d86c4cfc585d"
+  },
+  "tripId": {
+    "$oid": "6417836fb13392e600a49740"
+  },
+  "seatNumber": 7,
+  "status": "Available",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64181ae9f539d86c4cfc5860"
+  },
+  "tripId": {
+    "$oid": "6417836fb13392e600a49740"
+  },
+  "seatNumber": 8,
+  "status": "Available",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64181aedf539d86c4cfc5863"
+  },
+  "tripId": {
+    "$oid": "6417836fb13392e600a49740"
+  },
+  "seatNumber": 9,
+  "status": "Available",
+  "__v": 0
+}]

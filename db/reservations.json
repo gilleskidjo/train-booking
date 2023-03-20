@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "64185b2d278b830706a91b81"
+  },
+  "userId": {
+    "$oid": "64184312c186aabc6c3e36d4"
+  },
+  "tripId": {
+    "$oid": "6417836fb13392e600a49740"
+  },
+  "seatId": {
+    "$oid": "64181acdf539d86c4cfc5851"
+  },
+  "status": "Cancel",
+  "createdAt": "20/03/2023",
+  "__v": 0
+}]
