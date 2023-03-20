@@ -1,0 +1,26 @@
+version: '3.9'
+
+services:
+
+  mongodb:
+    container_name: train-booking
+    image: mongo
+    restart: always
+
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${DATABASE_USERNAME}
+      MONGO_INITDB_ROOT_PASSWORD: ${DATABASE_PASSWORD}
+
+    ports:
+      - "27017:27017"
+
+    volumes:
+      - ./data:/data/db
+    
+  mongo-express:
+    container_name: 'train_booking_express'
+    image: 'mongo-express'
+    ports:
+      - '8084:8084'
+    environment:
+      - ME_CONFIG_MONGODB_SERVER=train_booking
